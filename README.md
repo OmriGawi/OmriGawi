@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there :)<br>I'm Omri Gawi and I'm currently studying Information Systems (B.Sc.) at Braude College<br>Highly passionate about mobile development, with an interest in modern technologies and frameworks.<br>Currently learning Jetpack Compose and Dependency Injection.
+Hey there :)<br>I'm Omri Gawi and I'm currently studying Information Systems (B.Sc.) at Braude College<br>Highly passionate about mobile development, with an interest in modern technologies and frameworks.<br>Currently learning Jetpack Compose.
 
 
 ## 🌐 Socials:
