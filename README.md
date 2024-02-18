@@ -2,6 +2,14 @@
 Hey there :)<br>I'm Omri Gawi and I'm currently studying Information Systems (B.Sc.) at Braude College<br>Highly passionate about mobile development, with an interest in modern technologies and frameworks.<br>Currently learning Jetpack Compose.
 
 
+class AboutMe {
+    val firstName = "Omri"
+    val lastName = "Gawi"
+    val linkedin = "https://www.linkedin.com/in/omrigawi/"
+}
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/omri.gawi.9/) 
 
